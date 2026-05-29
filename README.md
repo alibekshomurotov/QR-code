@@ -34,5 +34,3 @@ Zamonaviy va chiroyli QR kod yaratish veb-ilovasi. Next.js va Tailwind CSS asosi
 - **Stil:** Tailwind CSS
 - **QR kod:** qrcode package
 - **Ma'lumotlar bazasi:** LocalStorage (tarix uchun)
-
-## 📁 Loyiha tuzilishi
